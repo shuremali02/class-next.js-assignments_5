@@ -25,7 +25,7 @@ export default function Header() {
             className="flex-1 px-4 text-sm text-gray-600 bg-transparent outline-none"
           />
           <Image
-            src={"/images/search.png"}
+            src={"/Images/search.png"}
             alt="search-icon"
             width={20}
             height={20}
