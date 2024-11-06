@@ -22,7 +22,7 @@ export default function Banner() {
                     <button className='md:text-[25px] text-lg font-medium md:w-[274px] md:h-[49px]  bg-[#A29875] text-white md:p-2 py-2 px-5 rounded-lg '>
                         Explore Now</button>
                 </div>
-                <div className='w-[421px] h-[573px] bg-cover bg-center hidden md:flex justify-center items-center rounded-tl-[128px] rounded-br-[128px]'
+                <div className='w-[421px] h-[573px] bg-cover bg-center hidden md:flex justify-center items-center '
                     style={{ backgroundImage: `url('/Images/banner_2.png')` }}
                 >
                     <div className='w-[380px] h-[525px]  border border-5 m-5 border-white rounded-tl-[128px] rounded-br-[128px]'>
